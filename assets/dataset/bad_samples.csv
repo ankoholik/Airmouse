@@ -1,0 +1,5 @@
+path,class_id,reason
+data\raw\1\0000\42.npy,1,"invalid shape=(0,) size=0"
+data\raw\1\0000\43.npy,1,"invalid shape=(0,) size=0"
+data\raw\1\0000\44.npy,1,"invalid shape=(0,) size=0"
+data\raw\5\0000\223.npy,5,"invalid shape=(0,) size=0"
